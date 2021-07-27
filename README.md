@@ -13,6 +13,7 @@ You can use this as a boilerplate for starting a new project.
 - Run `npm run dev`
 - Create .env file
 - Run `php artisan migrate`
+- Run `php artisan key:generate`
 
 ## Uses
 
